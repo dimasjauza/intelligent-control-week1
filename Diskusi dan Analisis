@@ -1,0 +1,15 @@
+Tutorial
+- Download Visual Studio Code, Github dan Python versi 3.11.6 instal ketiga aplikasi tersebut.
+- Buka Visual Studio Code kemudian klik new file masukan coding yang dibutuhkan.
+- Klik exstensions (Ctrl + Shift + X) kemudian instal Pylance, Python, Python Debugger dan Python Environments.
+- Klik Terminal pilih menu New Terminal dan masukan "pip install opencv-python numpy matplotlib"
+- Kemudian Running Program
+
+Kendala
+Sesudah instal Visual Studio Code biasanya ketika memasukan "pip" akan terjadi error saat running.
+
+Analisis
+Image processing yang kami lakukan saat praktikum intelligent control merupakan salah satu dari sekian banyak pemindaian yang berfokus pada warna, dan warna yang di pindai hanya sebatas 4 warna saja yaitu merah, kuning, hijau dan biru.
+
+Kesimpulan
+Pada praktikum yang telah kami lakukan dapat ditarik kesimpulan bahwa Image Processing bisa memindai dengan akurat, cepat, tepat dan real time. image processing sangat efisien waktu saat digunakan pada kondisi crowded/ramai.
